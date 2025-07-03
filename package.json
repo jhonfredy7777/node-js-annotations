@@ -1,0 +1,35 @@
+{
+  "name": "node-js-annotations",
+  "version": "1.0.0",
+  "description": "these are the annotations of the 2 hours long midulive course on nodejs.The content isn't exactly the same.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonfredy7777/node-js-annotations.git"
+  },
+  "keywords": [
+    "course",
+    "node",
+    "nodejs",
+    "annotations",
+    "midudev"
+  ],
+  "author": "Jhonfredy Mosquera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonfredy7777/node-js-annotations/issues"
+  },
+  "homepage": "https://github.com/jhonfredy7777/node-js-annotations#readme",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends":"standard"
+  }
+}
